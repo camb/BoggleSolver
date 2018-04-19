@@ -1,0 +1,2 @@
+# BoggleSolver
+solves Boggle boards
